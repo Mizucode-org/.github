@@ -1,2 +1,2 @@
-Terminal AI Security That Actually Works
+AI That Actually Works
 - © 2024 Quiklabs
